@@ -1,0 +1,11 @@
+Sample_ID	Type	Batch
+Healthy_Fibroblast_1	HC	1
+Healthy_Fibroblast_2	HC	1
+Healthy_Fibroblast_3	HC	1
+SSc_Clone_1	SSc	1
+SSc_Clone_2	SSc	1
+SSc_Clone_3	SSc	1
+SSc_Clone_4	SSc	2
+SSc_Clone_5	SSc	2
+SSc_Clone_6	SSc	2
+SSc_Clone_7	SSc	2
